@@ -12,7 +12,7 @@ or use "Git Bash Here" in a folder where you want to pull the project;
 
 2. Enter following command in your terminal:
 ```
-$ git clone https://github.com/DenysViershynin/Blog.git
+$ git clone https://github.com/DenysViershynin/NextJS.git
 ```
 3. Well done, amigo! We are halfway there)
 
